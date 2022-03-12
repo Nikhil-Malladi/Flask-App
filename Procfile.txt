@@ -1,1 +1,1 @@
-echo python app.py
+echo web: gunicorn run:app
