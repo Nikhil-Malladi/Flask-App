@@ -1,1 +1,1 @@
-python app.py
+echo python app.py
